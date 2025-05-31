@@ -1,0 +1,27 @@
+body  {
+    background-color: rgb(238, 144, 101);
+    }
+    h1  {
+        color: black;
+    }   
+    p,ul,td, {
+        color: darkmagenta;
+         }
+    img{
+        height: 300px;
+        width: 300px;
+        border-radius: 100px;
+        }
+    hr  {
+        border-style: none;
+        border-top-style: dotted;
+        border-width: 5px;
+        width: 5%;
+    } 
+    a   {
+        color: rgb(80, 25, 94);
+    }    
+    label {
+        color: rgb(0, 0, 0);
+    }
+    
